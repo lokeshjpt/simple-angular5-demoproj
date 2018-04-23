@@ -1,1 +1,0 @@
-# simple-angular5-demoproj
